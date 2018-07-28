@@ -23,11 +23,8 @@ GUID = 'df5ecacc-c850-4f00-9f9b-77e594d0decb'
 # Author of this module
 Author = 'kosmonavtsv@gmail.com'
 
-# Company or vendor of this module
-CompanyName = '����������'
-
 # Copyright statement for this module
-Copyright = '(c) 2018 kosmonavtsv@gmail.com. ��� ����� ��������.'
+Copyright = '(c) 2018 kosmonavtsv@gmail.com'
 
 # Description of the functionality provided by this module
 Description = 'Tools to administrate github'
