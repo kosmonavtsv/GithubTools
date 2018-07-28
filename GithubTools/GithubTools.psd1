@@ -9,7 +9,7 @@
 @{
 
 # Script module or binary module file associated with this manifest.
-# RootModule = ''
+RootModule = 'GithubTools.psm1'
 
 # Version number of this module.
 ModuleVersion = '1.0.0.1'
@@ -24,10 +24,10 @@ GUID = 'df5ecacc-c850-4f00-9f9b-77e594d0decb'
 Author = 'kosmonavtsv@gmail.com'
 
 # Company or vendor of this module
-CompanyName = 'Неизвестно'
+CompanyName = 'пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ'
 
 # Copyright statement for this module
-Copyright = '(c) 2018 kosmonavtsv@gmail.com. Все права защищены.'
+Copyright = '(c) 2018 kosmonavtsv@gmail.com. пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.'
 
 # Description of the functionality provided by this module
 Description = 'Tools to administrate github'
@@ -69,16 +69,16 @@ Description = 'Tools to administrate github'
 # NestedModules = @()
 
 # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
-FunctionsToExport = @()
+# FunctionsToExport = @()
 
 # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
-CmdletsToExport = @()
+# CmdletsToExport = @()
 
 # Variables to export from this module
 # VariablesToExport = @()
 
 # Aliases to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no aliases to export.
-AliasesToExport = @()
+# AliasesToExport = @()
 
 # DSC resources to export from this module
 # DscResourcesToExport = @()
