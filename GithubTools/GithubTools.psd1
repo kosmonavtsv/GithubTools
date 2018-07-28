@@ -12,7 +12,7 @@
 RootModule = 'GithubTools.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0.2'
+ModuleVersion = '1.0.0.3'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -22,6 +22,9 @@ GUID = 'df5ecacc-c850-4f00-9f9b-77e594d0decb'
 
 # Author of this module
 Author = 'kosmonavtsv@gmail.com'
+
+# Company or vendor of this module
+CompanyName = 'Unknown'
 
 # Copyright statement for this module
 Copyright = '(c) 2018 kosmonavtsv@gmail.com'
